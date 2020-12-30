@@ -1,0 +1,25 @@
+{
+  "name": "join-me",
+  "version": "0.0.1",
+  "description": "Utility to join list of words with a separator and the last one with keyword",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhabib/join-list.git"
+  },
+  "keywords": [
+    "join"
+  ],
+  "author": "Yusef Habib <habibfernandez@gmail.com> (https://yusefhabib.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yhabib/join-list/issues"
+  },
+  "homepage": "https://github.com/yhabib/join-list#readme",
+  "devDependencies": {
+    "jest": "26.6.3"
+  }
+}
