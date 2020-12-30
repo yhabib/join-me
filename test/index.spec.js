@@ -1,4 +1,4 @@
-const renderListWithLastKeyword = require('./index');
+const renderListWithLastKeyword = require('../dist/join-me');
 
 test('joins list of elements with comma and last one with keyword and', () => {
   const list = ['hello', 'hallo', 'ciao', 'hola'];
