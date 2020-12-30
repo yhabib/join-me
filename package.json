@@ -1,5 +1,5 @@
 {
-  "name": "join-me",
+  "name": "@yhabib/join-me",
   "version": "0.0.6",
   "description": "Utility to join list of words with a separator and the last one with keyword",
   "unpkg": "dist/join-me.min.js",
