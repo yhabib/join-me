@@ -20,3 +20,7 @@ let readableList = joinMe({ list }) // hello, hallo, ciao and hola
 readableList = joinMe({ list, keyword: ' und ' }) // hello, hallo, ciao und hola
 readableList = joinMe({ list, separator: '|', keyword: '-' }) // hello|hallo|ciao-hola
 ```
+
+## License
+
+MIT © [Yusef Habib](https://yusefhabib.com)

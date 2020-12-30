@@ -5,9 +5,6 @@
   "unpkg": "dist/join-me.min.js",
   "module": "dist/join-me.mjs",
   "main": "dist/join-me.js",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@yhabib"
-  },
   "scripts": {
     "build": "bundt",
     "pretest": "npm run build",
