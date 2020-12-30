@@ -1,6 +1,6 @@
 {
   "name": "join-me",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Utility to join list of words with a separator and the last one with keyword",
   "unpkg": "dist/join-me.min.js",
   "module": "dist/join-me.mjs",
