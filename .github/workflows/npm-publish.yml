@@ -43,7 +43,7 @@ jobs:
           node-version: 12
           registry-url: https://npm.pkg.github.com/
       - run: |
-          echo "@yhabib:registry=https://npm.pkg.github.com" > ~/.npmrc
+          echo "registry=https://npm.pkg.github.com/@yhabib" > ~/.npmrc
           npm ci
       - run: npm publish
         env:
