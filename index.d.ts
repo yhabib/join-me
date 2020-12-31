@@ -2,7 +2,7 @@ declare module 'join-me' {
   type List = string[];
   type Keyword = string;
   type Separator = string;
-  type Args = { list: List, keyword: Keyword, separator: Separator };
-  function joinMe(args:Args): string;
+  
+  function joinMe(args: { list: List, keyword?: Keyword, separator?: Separator }): string;
 	export = joinMe;
 }
