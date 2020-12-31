@@ -6,10 +6,6 @@
   "module": "dist/join-me.mjs",
   "main": "dist/join-me.js",
   "types": "index.d.ts",
-  "files": [
-    "dist",
-    "*.d.ts"
-  ],
   "scripts": {
     "build": "bundt",
     "pretest": "npm run build",
