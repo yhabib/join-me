@@ -1,4 +1,4 @@
-declare module 'joinMe' {
+declare module 'join-me' {
   type List = string[];
   type Keyword = string;
   type Separator = string;
