@@ -34,6 +34,6 @@
   "homepage": "https://github.com/yhabib/join-me#readme",
   "devDependencies": {
     "bundt": "1.1.3",
-    "jest": "27.0.4"
+    "jest": "27.4.4"
   }
 }
